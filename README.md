@@ -1,7 +1,6 @@
 # Data-Analysis-Final-Project
 Statistical analysis of insurance, startup, and housing datasets using Hypothesis Testing, Python Regression, and EViews OLS.
 
-# Data Analysis Lab — Final Project
 ## Overview
 This project presents a comprehensive statistical analysis of three independent 
 datasets sourced from Kaggle.
